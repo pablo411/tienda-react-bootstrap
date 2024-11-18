@@ -1,0 +1,49 @@
+.principal{
+    box-sizing: border-box;
+   
+}
+h5{
+    background-color: aqua;
+}
+
+.titulo{
+    font-size: 50px;
+    color: white;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: 500;
+    border-bottom: 3px solid rgb(5, 25, 85);
+}
+
+.imagen-fondo{
+   background-image: url(https://th.bing.com/th/id/OIP.eIlI3n6Y32cAUH-JCRg4DgHaDL?rs=1&pid=ImgDetMain);
+    width: 100%;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.capitulos{
+    margin: 30px;
+    margin-right: 30px;
+    
+    
+}
+
+.videos-container{
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid rgb(5, 25, 85);
+}
+@media(max-width:768px){
+    .principal{
+        box-sizing: border-box;
+        display: inline-block;
+    }
+    .capitulos{
+        box-sizing: border-box;
+        display: inline-block;
+    }
+}

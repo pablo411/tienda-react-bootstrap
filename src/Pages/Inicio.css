@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.imagen-principal{
+    width: 100%;
+    height: 400px;
+}
+.contenedor{
+    background-image: url(https://st2.depositphotos.com/5392356/7907/i/950/depositphotos_79074684-stock-photo-young-beautiful-girl-working-on.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.descripcion{
+    
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    align-content: center;
+    font-style: oblique;
+    
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.breve-descripcion{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.fila-cartas1{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.titulo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 800;
+    font-style: oblique;
+}
+.descripciones{
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 20px;
+    text-align: left;
+    align-content: center;
+}
+
+.descripcion-titulo{
+    font-size: 35px;
+    font-style: oblique;
+    font-weight: 400;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+@media(max-width:768px){
+    Container{
+        box-sizing: border-box;
+        display: inline-block;
+    }
+    
+}
+
+
