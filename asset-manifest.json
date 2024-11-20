@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tienda-react-bootstrap/static/css/main.ab4dc933.css",
-    "main.js": "/tienda-react-bootstrap/static/js/main.e41349a4.js",
+    "main.css": "/tienda-react-bootstrap/static/css/main.69aede5a.css",
+    "main.js": "/tienda-react-bootstrap/static/js/main.f79b05bc.js",
     "static/js/952.22f6aed7.chunk.js": "/tienda-react-bootstrap/static/js/952.22f6aed7.chunk.js",
     "static/media/fa-solid-900.ttf": "/tienda-react-bootstrap/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/tienda-react-bootstrap/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/tienda-react-bootstrap/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/tienda-react-bootstrap/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/tienda-react-bootstrap/index.html",
-    "main.ab4dc933.css.map": "/tienda-react-bootstrap/static/css/main.ab4dc933.css.map",
-    "main.e41349a4.js.map": "/tienda-react-bootstrap/static/js/main.e41349a4.js.map",
+    "main.69aede5a.css.map": "/tienda-react-bootstrap/static/css/main.69aede5a.css.map",
+    "main.f79b05bc.js.map": "/tienda-react-bootstrap/static/js/main.f79b05bc.js.map",
     "952.22f6aed7.chunk.js.map": "/tienda-react-bootstrap/static/js/952.22f6aed7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab4dc933.css",
-    "static/js/main.e41349a4.js"
+    "static/css/main.69aede5a.css",
+    "static/js/main.f79b05bc.js"
   ]
 }
